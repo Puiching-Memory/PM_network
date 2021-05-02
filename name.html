@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<!-- 未来的登录界面 -->
+<!--cored：001 Version：100-->
+<html lang="zh-cn">
+<head>
+    <title>ZK2020：登录界面</title>
+    <meta charset="utf-8">
+    <style>
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <!-- 标题文字hl&p -->
+    <h1>登录</h1>
+    <p>*现在是留言箱功能,如果你乐意，请在下方输入你的学校、班级和姓名</p>
+
+    <!--提交模块form-->
+    <form action="form.js" method="post">
+        <div>
+            <label>学校：</label>
+            <input type="text" name="school" placeholder="XXX中学">
+        </div>
+        <div>
+            <label>班级：</label>
+            <input type="text" name="class" placeholder="X年X班">
+        </div>
+        <div>
+            <label>姓名：</label>
+            <input type="text" name="name" placeholder="XXX">
+        </div>
+        <div>
+            <label>邮箱：</label>
+            <input type="email" name="emal" placeholder="1234567@qq.com">
+        </div>
+
+        <input type="submit" name="submit" value="提交" />
+    </form>
+
+</body>
+</html>
