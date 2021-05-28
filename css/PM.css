@@ -1,0 +1,159 @@
+.div{
+    text-align:center;
+    color:aliceblue;
+}
+
+body{
+}
+.img {
+    height: 70vh;
+    min-height: 500px;
+    background: url(../pictures/PM-2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    white-space: nowrap;
+}
+.h101{
+    font-size:35px;
+}
+.h102{
+    font-size:25px;
+}
+p{
+    text-align:center;
+    color:white;
+}
+h2 {
+    text-align: center;
+    color: white;
+}
+.headimg {
+    text-align: center;
+    color: aliceblue;
+    font-size: 15px;
+    margin: 0 25px;
+    transition: .2s;
+    height: 100px;
+    position: relative;
+    line-height:175px;
+    text-shadow:5px 5px 5px black;
+    transition:1s;
+}
+.a1 {
+    margin: 0 15px;
+    background: url(../pictures/head/Arrow.jpg);
+    background-repeat: no-repeat;
+    background-size: 75px 75px;
+    height: 100px;
+    width: 75px;
+    cursor: pointer;
+    display: inline-block;
+    transition:.2s;
+}
+.a2 {
+    margin: 0 15px;
+    background: url(../pictures/head/Christina.jpg);
+    background-repeat: no-repeat;
+    background-size: 75px 75px;
+    height: 75px;
+    width: 75px;
+    cursor: pointer;
+    display: inline-block;
+    transition: .2s;
+}
+.a3 {
+    margin: 0 15px;
+    background: url(../pictures/head/Dan_TDMs_backup.jpg);
+    background-repeat: no-repeat;
+    background-size: 75px 75px;
+    height: 75px;
+    width: 75px;
+    cursor: pointer;
+    display: inline-block;
+    text-indent: -25px;
+    transition: .2s;
+}
+.a4 {
+    margin: 0 15px;
+    background: url(../pictures/head/JIRUN_.jpg);
+    background-repeat: no-repeat;
+    background-size: 75px 75px;
+    height: 75px;
+    width: 75px;
+    cursor: pointer;
+    display: inline-block;
+    transition: .2s;
+}
+.a5 {
+    margin: 0 15px;
+    background: url(../pictures/head/Pretty_Boy.jpg);
+    background-repeat: no-repeat;
+    background-size: 75px 75px;
+    height: 75px;
+    width: 75px;
+    cursor: pointer;
+    display: inline-block;
+    transition: .2s;
+}
+.a6 {
+    margin: 0 15px;
+    background: url(../pictures/head/FD.jpg);
+    background-repeat: no-repeat;
+    background-size: 75px 75px;
+    height: 75px;
+    width: 75px;
+    cursor: pointer;
+    display: inline-block;
+    transition: .2s;
+}
+.a7 {
+    margin: 0 15px;
+    background: url(../pictures/head/6.jpg);
+    background-repeat: no-repeat;
+    background-size: 75px 75px;
+    height: 75px;
+    width: 75px;
+    cursor: pointer;
+    display: inline-block;
+    transition: .2s;
+}
+.a8 {
+    margin: 0 15px;
+    background: url(../pictures/head/ZK.jpg);
+    background-repeat: no-repeat;
+    background-size: 75px 75px;
+    height: 75px;
+    width: 75px;
+    cursor: pointer;
+    display: inline-block;
+    transition: .2s;
+}
+.a9 {
+    margin: 0 15px;
+    background: url(../pictures/head/FTL.jpg);
+    background-repeat: no-repeat;
+    background-size: 75px 75px;
+    height: 75px;
+    width: 75px;
+    cursor: pointer;
+    display: inline-block;
+    transition: .2s;
+}
+.p2{
+    color:black;
+}
+.a1:hover,.a2:hover,.a3:hover,.a4:hover,.a5:hover,.a6:hover,.a7:hover,.a8:hover,.a9:hover{
+    margin:0 25px;
+}
+
+
+.slide {
+    width: 10%;
+    transition: 1.5s; /*delay(ясЁы)*/
+}
+
+    .slide img {
+        width: 100%;
+        height: 100%;
+    }
+

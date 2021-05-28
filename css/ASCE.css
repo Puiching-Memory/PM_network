@@ -1,0 +1,14 @@
+.div{
+    text-align:center;
+}
+
+body{
+}
+.img {
+    height: 70vh;
+    min-height: 500px;
+    background: url(../pictures/APP.png);
+    background-size: cover;
+    background-attachment: fixed;
+    white-space: nowrap;
+}

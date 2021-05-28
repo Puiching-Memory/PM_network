@@ -1,0 +1,25 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-10-11 08:13:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-10-11 08:13:16 192.168.31.158 GET / - 80 - 192.168.31.158 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/86.0.4240.75+Safari/537.36+Edg/86.0.622.38 - 304 0 0 2
+2020-10-11 08:14:52 192.168.31.158 GET / - 80 - 192.168.31.158 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/86.0.4240.75+Safari/537.36+Edg/86.0.622.38 - 301 0 0 30
+2020-10-11 08:21:13 192.168.31.158 GET / - 80 - 192.168.31.158 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/86.0.4240.75+Safari/537.36+Edg/86.0.622.38 - 200 0 0 2
+2020-10-11 08:21:13 192.168.31.158 GET /favicon.ico - 80 - 192.168.31.158 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/86.0.4240.75+Safari/537.36+Edg/86.0.622.38 http://5.180.76.28:48508/ 404 0 2 1
+2020-10-11 08:21:26 192.168.31.158 GET / - 80 - 192.168.31.158 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/86.0.4240.75+Safari/537.36+Edg/86.0.622.38 - 304 0 0 0
+2020-10-11 08:23:45 192.168.31.158 GET / - 80 - 192.168.31.158 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/86.0.4240.75+Safari/537.36+Edg/86.0.622.38 - 301 0 0 1
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-10-11 08:27:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-10-11 08:27:22 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/86.0.4240.75+Safari/537.36+Edg/86.0.622.38 - 200 0 0 406
+2020-10-11 08:27:22 ::1 GET /favicon.ico - 80 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/86.0.4240.75+Safari/537.36+Edg/86.0.622.38 http://localhost/ 404 0 2 3
+2020-10-11 08:27:30 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/86.0.4240.75+Safari/537.36+Edg/86.0.622.38 - 304 0 0 0
+2020-10-11 08:27:30 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/86.0.4240.75+Safari/537.36+Edg/86.0.622.38 - 304 0 0 0
+2020-10-11 08:28:46 ::1 GET /index.html - 80 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/86.0.4240.75+Safari/537.36+Edg/86.0.622.38 - 200 0 0 2
+2020-10-11 08:31:14 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/86.0.4240.75+Safari/537.36+Edg/86.0.622.38 - 304 0 0 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-10-11 08:34:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-10-11 08:34:05 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/86.0.4240.75+Safari/537.36+Edg/86.0.622.38 - 304 0 0 2

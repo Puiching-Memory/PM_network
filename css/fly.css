@@ -1,0 +1,31 @@
+.div{
+    text-align:center;
+    color:white;
+}
+
+body{
+}
+.img {
+    height: 70vh;
+    min-height: 500px;
+    background: url(../pictures/fly001.png);
+    background-size: cover;
+    background-attachment: fixed;
+    white-space: nowrap;
+}
+.h101{
+    font-size: 50px;
+}
+.h102{
+    font-size: 30px;
+}
+.Q1{
+    text-align:center;
+    color:black;
+    font-size: 40px;
+}
+.pimg-1 img{
+    float:left;
+    height:200px;
+    width:400px;
+}

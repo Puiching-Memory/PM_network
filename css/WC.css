@@ -1,0 +1,15 @@
+.div{
+    text-align:center;
+    color:aliceblue;
+}
+
+body{
+}
+.img {
+    height: 70vh;
+    min-height: 500px;
+    background: url(../pictures/what.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    white-space: nowrap;
+}

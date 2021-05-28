@@ -1,0 +1,78 @@
+        .footer01{
+            width: 1000px;
+            height: auto;
+            overflow: hidden;
+            margin: 0px auto;
+            color: #999;
+            text-align: center;
+            padding-top: 50px;
+        }
+        *{
+            margin: 0;
+            padding: 0;
+            text-decoration: none;
+            box-sizing:border-box;
+            font-family:"Microsoft YaHei"
+        }
+        header{
+            position:fixed;
+            top:0;
+            left:0;
+            width:100%;
+            justify-content:space-between;
+            align-items:center;
+            display:flex;
+            padding:20px 100px;
+            z-index:10000;
+            transition:1s;
+            background: rgba(0,0,0,0.6);
+            white-space:nowrap;
+        }
+        header.sticky{
+            padding:10px 100px;
+            background:white;
+            transition:1s;
+        }
+        header .logo{
+            position: relative;
+            font-size:2em;
+            text-decoration:none;
+            color:white;
+            text-transform:uppercase;
+            transition:1s;
+            font-weight: 700;
+            letter-spacing: 2px;
+        }
+        header ul{
+            position:relative;
+            justify-content:center;
+            display:flex;
+            align-items: center;
+            padding:0px;
+
+        }
+        header ul li{
+            position:relative;
+            list-style-type:none;
+            display:inline-block;
+        }
+        header ul li a{
+            position:relative;
+            text-decoration:none;
+            font-weight:500;
+            margin:0 15px;
+            color:white;
+            font-size: 1em;
+            letter-spacing: 2px;
+            transition:1s;
+        }
+        .OP-header-a {
+            transition:0.5s;
+            color:orangered;
+            border-bottom:solid;
+            padding-bottom:5px;
+        }
+        header.sticky .logo,
+        header.sticky ul li a {
+            color:black;
+        }

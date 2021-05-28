@@ -1,0 +1,16 @@
+.div{
+    text-align:center;
+    color:aquamarine;
+    text-shadow:5px 5px 5px black;
+}
+
+body{
+}
+.img {
+    height: 70vh;
+    min-height: 500px;
+    background: url(../pictures/bilibili.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    white-space: nowrap;
+}
